@@ -14,14 +14,14 @@ body {
 .container_header h1 {
 	text-transform: uppercase;
 	font-weight: bold;
-	font-size: 48px;
-    color: #fff;
+	font-size: 58px;
+    color: #ff0000;
     text-align: center;
 }
 
 .container_header h2 {
 	text-align: center;
-	color: #fff;
+	color: #ff0000;
 }
 
 .container_main {
