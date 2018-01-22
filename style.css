@@ -13,15 +13,15 @@ body {
 
 .container_header h1 {
 	text-transform: uppercase;
-	font-weight: bolder;
+	font-weight: bold;
 	font-size: 58px;
-    color: #ccc;
+    color: #ff0000;
     text-align: center;
 }
 
 .container_header h2 {
 	text-align: center;
-	color: #ccc;
+	color: #ff0000;
 }
 
 .container_main {
